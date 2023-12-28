@@ -1,0 +1,281 @@
+@charset "UTF-8";
+#wrap {
+  width: 100%;
+}
+#wrap .container {
+  width: 100%;
+}
+#wrap .container .gap {
+  width: 100%;
+}
+#wrap .container .gap .content {
+  width: 100%;
+}
+#wrap .container .gap .content .row1 {
+  width: 100%;
+}
+#wrap .container .gap .content .row1 .back-img {
+  width: 100%;
+  height: 250px;
+  background: url(../../public/img/milky-way-2695569_1920.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  opacity: 0.8;
+}
+#wrap .container .gap .content .row2 {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  position: relative;
+}
+#wrap .container .gap .content .row2 .face-img {
+  width: 154px;
+  height: 154px;
+  background-image: url(../../public/img/김범조1.jpg);
+  background-position: 50% 10%;
+  background-size: cover;
+  border-radius: 10px;
+  position: absolute;
+  top: -100px;
+}
+#wrap .container .gap .content .row2 .subject {
+  padding: 100px 0;
+}
+#wrap .container .gap .content .row2 .subject h1 {
+  font-size: 45px;
+  font-weight: 600;
+  color: rgb(0, 0, 0);
+  letter-spacing: 1px;
+}
+#wrap .container .gap .content .row2 .introduction {
+  padding-bottom: 60px;
+}
+#wrap .container .gap .content .row2 .introduction .int-row1 {
+  display: flex;
+  align-items: center;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 30px;
+}
+#wrap .container .gap .content .row2 .introduction .int-row1 h2 {
+  color: orange;
+  font-weight: 600;
+  font-size: 40px;
+}
+#wrap .container .gap .content .row2 .introduction .int-row1 svg {
+  font-size: 40px;
+  color: green;
+  margin-right: 7px;
+}
+#wrap .container .gap .content .row2 .introduction > ul > li {
+  list-style: disc;
+  margin-left: 15px;
+  font-size: 20px;
+  padding-bottom: 12px;
+}
+#wrap .container .gap .content .row2 .introduction > ul :nth-child(5) {
+  font-weight: 500;
+}
+#wrap .container .gap .content .row2 .introduction > ul :nth-child(6) {
+  font-weight: 500;
+}
+#wrap .container .gap .content .row2 .introduction > ul :nth-child(7) {
+  font-weight: 500;
+}
+#wrap .container .gap .content .row2 .portfolio {
+  width: 100%;
+}
+#wrap .container .gap .content .row2 .portfolio .por-row1 {
+  display: flex;
+  align-items: center;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 30px;
+}
+#wrap .container .gap .content .row2 .portfolio .por-row1 h2 {
+  color: orange;
+  font-weight: 600;
+  font-size: 40px;
+}
+#wrap .container .gap .content .row2 .portfolio .por-row1 svg {
+  font-size: 40px;
+  color: green;
+  margin-right: 11px;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 {
+  width: 100%;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul {
+  width: 100%;
+  font-size: 18px;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul li {
+  padding-bottom: 10px;
+  line-height: 28px;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(1) {
+  padding-bottom: 10px;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(1) h3 {
+  font-size: 25px;
+  font-weight: 500;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(4) a {
+  font-size: 20px;
+  color: orange;
+  font-weight: 600;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(6) {
+  width: 100%;
+  padding-top: 20px;
+  border-bottom: 1px solid #ccc;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(6) .pic-row1 {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(6) .pic-row1 .pic1 {
+  width: 50%;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(6) .pic-row1 .pic1 img {
+  width: 100%;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(6) .pic-row1 .pic1 p {
+  display: flex;
+  justify-content: center;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(6) .pic-row1 .pic2 {
+  width: 50%;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(6) .pic-row1 .pic2 img {
+  width: 100%;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(6) .pic-row1 .pic2 p {
+  display: flex;
+  justify-content: center;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(7) {
+  margin-top: 40px;
+  width: 100%;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(7) img {
+  width: 100%;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(8) {
+  width: 100%;
+  padding-bottom: 24px;
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  justify-content: center;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(9) {
+  padding-top: 20px;
+  width: 100%;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(9) img {
+  width: 100%;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(10) {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 24px;
+  border-bottom: 1px solid #ccc;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(11) {
+  width: 100%;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(11) img {
+  width: 100%;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(12) {
+  width: 100%;
+  padding-bottom: 24px;
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  justify-content: center;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(13) {
+  width: 100%;
+  padding-top: 25px;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(13) img {
+  width: 100%;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio1 ul :nth-child(14) {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 24px;
+  border-bottom: 1px solid #ccc;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio2 {
+  width: 100%;
+  margin-top: 30px;
+  font-size: 18px;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio2 li {
+  padding-bottom: 10px;
+  line-height: 28px;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio2 :nth-child(1) {
+  padding-bottom: 10px;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio2 :nth-child(1) h3 {
+  font-size: 25px;
+  font-weight: 500;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio2 :nth-child(4) a {
+  font-size: 20px;
+  color: orange;
+  font-weight: 600;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio2 :nth-child(6) {
+  padding-top: 20px;
+  width: 100%;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio2 :nth-child(6) img {
+  width: 100%;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio2 :nth-child(7) {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio3 {
+  width: 100%;
+  margin-top: 30px;
+  font-size: 18px;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio3 li {
+  padding-bottom: 10px;
+  line-height: 28px;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio3 :nth-child(1) {
+  padding-bottom: 10px;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio3 :nth-child(1) h3 {
+  font-size: 25px;
+  font-weight: 500;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio3 :nth-child(4) a {
+  font-size: 20px;
+  color: orange;
+  font-weight: 600;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio3 :nth-child(6) {
+  padding-top: 20px;
+  width: 100%;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio3 :nth-child(6) img {
+  width: 100%;
+}
+#wrap .container .gap .content .row2 .portfolio .portfolio3 :nth-child(7) {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+}
