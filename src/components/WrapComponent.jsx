@@ -161,8 +161,8 @@ export default function WrapComponent() {
                     <li>주제 : 롯데 호텔 사이트 클론코딩 개인 프로젝트</li>
                     <li>사용 기술 : React</li>
                     <li>
-                      <a href="https://carlnathal.github.io/lotte/">
-                        URL : https://carlnathal.github.io/lotte/
+                      <a href="http://lotte.cafe24app.com/">
+                        URL : http://lotte.cafe24app.com/
                       </a>
                     </li>
                     <li>

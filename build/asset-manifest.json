@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.js": "/resume/static/js/main.5bd46b01.js",
+    "main.css": "/resume/static/css/main.1490c995.css",
+    "main.js": "/resume/static/js/main.8893c720.js",
+    "static/media/milky-way-2695569_1920.jpg": "/resume/static/media/milky-way-2695569_1920.1efa43aa888c30bb4002.jpg",
+    "static/media/김범조1.jpg": "/resume/static/media/김범조1.ef34082308a0abc8b20f.jpg",
     "index.html": "/resume/index.html",
-    "main.5bd46b01.js.map": "/resume/static/js/main.5bd46b01.js.map"
+    "main.1490c995.css.map": "/resume/static/css/main.1490c995.css.map",
+    "main.8893c720.js.map": "/resume/static/js/main.8893c720.js.map"
   },
   "entrypoints": [
-    "static/js/main.5bd46b01.js"
+    "static/css/main.1490c995.css",
+    "static/js/main.8893c720.js"
   ]
 }
