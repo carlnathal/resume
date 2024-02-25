@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.1490c995.css",
+    "main.css": "/resume/static/css/main.003e1fd9.css",
     "main.js": "/resume/static/js/main.8486ae9a.js",
     "static/media/milky-way-2695569_1920.jpg": "/resume/static/media/milky-way-2695569_1920.1efa43aa888c30bb4002.jpg",
+    "static/media/kream_architecture.png": "/resume/static/media/kream_architecture.e39617f4adbe17fa33c8.png",
     "static/media/김범조1.jpg": "/resume/static/media/김범조1.ef34082308a0abc8b20f.jpg",
     "index.html": "/resume/index.html",
-    "main.1490c995.css.map": "/resume/static/css/main.1490c995.css.map",
+    "main.003e1fd9.css.map": "/resume/static/css/main.003e1fd9.css.map",
     "main.8486ae9a.js.map": "/resume/static/js/main.8486ae9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.1490c995.css",
+    "static/css/main.003e1fd9.css",
     "static/js/main.8486ae9a.js"
   ]
 }
